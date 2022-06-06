@@ -4,7 +4,11 @@ Golang Windows APP that shows Computer Hardware Information
 
 ## Description
 
-Golang Windows APP that shows Computer Hardware Information built with fyne
+Golang Windows APP that shows Computer Hardware Information built with fyne UI Toolkit
+Just made because I was bored, only shows info for upto 4 GPUS in a computer
+
+![image](https://user-images.githubusercontent.com/106552164/172263635-4d1394e1-80ef-4dda-87e5-29499316d90a.png)![image](https://user-images.githubusercontent.com/106552164/172263853-973e6156-0b6e-4b32-ae96-8512862f3068.png)
+![Uploading image.png…]()
 
 ## Getting Started
 
